@@ -9,7 +9,7 @@ This is **not** a laggy, outdated gang script.
 🔗 **Purchase on Tebex:**  
 👉 https://drifters-haven-mods.tebex.io/package/dh-gangwar
 
----
+
 
 ## 🏙️ What This Script Adds
 
@@ -21,7 +21,7 @@ DHGangWar introduces **dangerous gang-controlled zones** across the map where ho
 
 All gangs are **server-managed and globally synchronized**, so every player sees the same threats at the same time.
 
----
+
 
 ## 🚀 Why This Gang Script Is Different
 
@@ -39,7 +39,6 @@ Most gang scripts:
 
 **Idle usage: ~0.00ms**
 
----
 
 ## ✨ Key Features
 
@@ -82,7 +81,7 @@ Ideal for:
 - Loot-heavy danger areas
 - PvE combat content
 
----
+
 
 ## ⚙️ Framework & Dependencies
 
@@ -90,7 +89,7 @@ Ideal for:
 - **Required:** qb-core
 - **Standalone:** Yes
 
----
+
 
 ## 📸 Preview
 
@@ -102,7 +101,7 @@ Suggested screenshots:
 - Multiple hostile NPCs engaging
 - Map zone showing danger area
 
----
+
 
 ## 📦 Included Files
 
@@ -112,7 +111,6 @@ Suggested screenshots:
 - `server.lua`
 - `README.txt`
 
----
 
 ## 🔧 Installation
 
@@ -121,7 +119,7 @@ Suggested screenshots:
 3. Configure gangs in `config.lua`
 4. Restart your server
 
----
+
 
 ## 📁 Configuration Overview
 
@@ -137,7 +135,7 @@ You can configure:
 - Combat movement & aggression
 - AI hearing & vision distance
 
----
+
 
 ## 🧪 Performance & Stability
 
@@ -148,7 +146,7 @@ You can configure:
 - Server-authoritative gang logic
 - Designed for long uptime servers
 
----
+
 
 ## 🔒 License & Usage
 
@@ -165,7 +163,6 @@ You can configure:
 This repository is **documentation & preview only**.  
 No source code is distributed here.
 
----
 
 ## 🔎 Keywords (Search Visibility)
 
@@ -176,4 +173,5 @@ QBCore hostile AI
 FiveM PVE combat script  
 FiveM high risk zones  
 
-
+[googled18c1118597a6390.html](https://github.com/user-attachments/files/24678533/googled18c1118597a6390.html)
+google-site-verification: googled18c1118597a6390.html

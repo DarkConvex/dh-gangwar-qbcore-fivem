@@ -173,5 +173,3 @@ QBCore hostile AI
 FiveM PVE combat script  
 FiveM high risk zones  
 
-[googled18c1118597a6390.html](https://github.com/user-attachments/files/24678533/googled18c1118597a6390.html)
-google-site-verification: googled18c1118597a6390.html
